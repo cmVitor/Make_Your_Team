@@ -1,0 +1,230 @@
+{
+  "caracteristicas": {
+    "posicoes": [
+      {
+        "id": 1,
+        "tipo": "Goleiro"
+      },
+      {
+        "id": 2,
+        "tipo": "Zagueiro"
+      },
+      {
+        "id": 3,
+        "tipo": "Lateral Direito"
+      },
+      {
+        "id": 4,
+        "tipo": "Lateral Esquerdo"
+      },
+      {
+        "id": 5,
+        "tipo": "Volante"
+      },
+      {
+        "id": 6,
+        "tipo": "Meio Campista"
+      },
+      {
+        "id": 7,
+        "tipo": "Ponta"
+      },
+      {
+        "id": 8,
+        "tipo": "Atacante"
+      }
+    ],
+    "pernas": [
+      {
+        "id": 1,
+        "tipo": "Destro"
+      },
+      {
+        "id": 2,
+        "tipo": "Canhoto"
+      },
+      {
+        "id": 3,
+        "tipo": "Ambidestro"
+      }
+    ],
+    "diferenciais": [
+      {
+        "id": 1,
+        "tipo": "Driblador"
+      },
+      {
+        "id": 2,
+        "tipo": "Playmaker"
+      },
+      {
+        "id": 3,
+        "tipo": "Finalizador"
+      },
+      {
+        "id": 4,
+        "tipo": "Velocista"
+      },
+      {
+        "id": 5,
+        "tipo": "Forte fisicamente"
+      },
+      {
+        "id": 4,
+        "tipo": "Inteligência defensiva"
+      },
+      {
+        "id": 5,
+        "tipo": "Liderança"
+      },
+      {
+        "id": 6,
+        "tipo": "Reflexos rápidos"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Titular"
+    },
+    {
+      "id": "2",
+      "tipo": "Banco de Reservas"
+    },
+    {
+      "id": "3",
+      "tipo": "Não relacionado"
+    },
+    {
+      "id": "4",
+      "tipo": "Lesionado"
+    }
+  ],
+  "players": [
+    {
+      "id": "9f62",
+      "nome": "Gabriel Brazão",
+      "perna": "Destro",
+      "posicao": "Goleiro",
+      "diferenciais": [
+        "Reflexos rápidos"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "c7d2",
+      "nome": "Souza ",
+      "perna": "Canhoto",
+      "posicao": "Lateral Esquerdo",
+      "diferenciais": [
+        "Driblador",
+        "Velocista"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "c4d6",
+      "nome": "Luan Peres",
+      "perna": "Canhoto",
+      "posicao": "Zagueiro",
+      "diferenciais": [
+        "Inteligência defensiva"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "6708",
+      "nome": "Adonis Frias",
+      "perna": "Destro",
+      "posicao": "Zagueiro",
+      "diferenciais": [
+        "Forte fisicamente"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "8334",
+      "nome": "Mayke",
+      "perna": "Destro",
+      "posicao": "Lateral Direito",
+      "diferenciais": [
+        "Inteligência defensiva"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "3fe5",
+      "nome": "Zé Rafael",
+      "perna": "Destro",
+      "posicao": "Volante",
+      "diferenciais": [
+        "Playmaker"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "624f",
+      "nome": "Benjamin Rolheiser",
+      "perna": "Canhoto",
+      "posicao": "Meio Campista",
+      "diferenciais": [
+        "Driblador",
+        "Playmaker",
+        "Finalizador"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "e975",
+      "nome": "Neymar Jr.",
+      "perna": "Destro",
+      "posicao": "Meio Campista",
+      "diferenciais": [
+        "Driblador",
+        "Playmaker",
+        "Finalizador"
+      ],
+      "status": "Lesionado"
+    },
+    {
+      "id": "9b92",
+      "nome": "Guilherme Amado",
+      "perna": "Destro",
+      "posicao": "Ponta",
+      "diferenciais": [],
+      "status": "Titular"
+    },
+    {
+      "id": "3ef7",
+      "nome": "Lautaro Diaz",
+      "perna": "Destro",
+      "posicao": "Atacante",
+      "diferenciais": [
+        "Finalizador",
+        "Forte fisicamente"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "243c",
+      "nome": "Barreal",
+      "perna": "Canhoto",
+      "posicao": "Ponta",
+      "diferenciais": [
+        "Driblador"
+      ],
+      "status": "Titular"
+    },
+    {
+      "id": "8b83",
+      "nome": "Robinho Jr",
+      "perna": "Destro",
+      "posicao": "Ponta",
+      "diferenciais": [
+        "Driblador"
+      ],
+      "status": "Banco de Reservas"
+    }
+  ]
+}
