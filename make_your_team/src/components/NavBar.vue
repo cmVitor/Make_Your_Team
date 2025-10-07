@@ -6,6 +6,7 @@
       </router-link>
       <router-link to="/">Montar time</router-link>
       <router-link to="/team">Time</router-link>
+      <router-link to="/about">Sobre</router-link>
     </div>
   </div>
 </template>
